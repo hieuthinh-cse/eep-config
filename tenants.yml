@@ -1,0 +1,5 @@
+repositories:
+  hieuthinh-cse/eep-tenant:
+    namespace: apigw
+    configFilePath: "*.yml"
+    defaultRef: refs/heads/master
